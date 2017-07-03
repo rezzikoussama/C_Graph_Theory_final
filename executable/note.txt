@@ -1,0 +1,4 @@
+le programme modifie le fichier "tmp/graph.fichier"
+donc il faut copier tout le dossier "executable" sur PC
+et lancer le programme apartir de PC sinon il ne peut pas modifie
+le fichier.
